@@ -1,0 +1,13 @@
+{
+  "name": "smart-dom-pdf",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "types": "index.d.ts",
+  "type": "module",
+  "description": "Generate PDF from selected DOM ranges",
+  "license": "MIT",
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1"
+  }
+}
