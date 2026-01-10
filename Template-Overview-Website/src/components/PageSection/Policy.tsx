@@ -42,7 +42,7 @@ export default function Policy() {
         {/* Section 1 */}
         <section className="mb-24">
           <h2 className="text-3xl font-bold text-gray-900 mb-6">
-            1. Information We Collect
+            1. Information We Collect & How We Collect It
           </h2>
           <p className="text-lg text-gray-700 leading-relaxed mb-4">
             We collect personal information you voluntarily provide, including
